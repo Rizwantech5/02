@@ -11,7 +11,7 @@ Welcome to **AWS Devops journey**! This repository is designed to demonstrate my
 
 Access detailed course outlines and materials.
 
-- 📂 **[AWS Cloud - Course Outline](https://roadmap.sh/aws)**
+- 🔗 **[AWS Cloud - Course Outline](https://roadmap.sh/aws)**
 - 🧠 **[Mindmap]()**
 
 
