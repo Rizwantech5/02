@@ -6,11 +6,13 @@
 Welcome to **AWS Devops journey**! This repository is designed to demonstrate my expertise and hands-on experience with AWS services. It features various labs, projects, and materials to serve as a reference for AWS services and cloud computing.
 
 
+
 ## 📑 Course Outline
 
 Access detailed course outlines and materials.
 
-📂 **[AWS Cloud From Scratch - Course Outline](https://roadmap.sh/aws)**
+- 📂 **[AWS Cloud - Course Outline](https://roadmap.sh/aws)**
+- 🧠 **[Mindmap]()**
 
 
 ## 📚 Useful Resources

@@ -1,6 +1,8 @@
 # Understanding AWS Global Infrastructure
 
-AWS Global Infrastructure is designed to offer high availability, redundancy, and scalability across the globe. Here’s an overview of its essential components:
+AWS Global Infrastructure is designed to offer high availability, redundancy, and scalability across the globe.
+
+🧠 **[Mindmap](https://drive.google.com/file/d/18bjkYSfaP8xbMfacPqX9hjH9l1m0j22m/view?usp=sharing)**
 
 ## Key Components
 
