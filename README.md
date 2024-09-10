@@ -1,4 +1,4 @@
-# AWS Devops journy
+# AWS Devops journey
 
 ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
 
